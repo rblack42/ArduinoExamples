@@ -1,0 +1,29 @@
+# Mac
+.DS_Store
+
+# Vim
+*~
+*.swp
+
+# Notes
+unpublished
+
+# C/C++
+*.o
+*.d
+*.s
+
+# AVR
+*.hex
+*.elf
+*.lst
+
+# Python
+*.pyc
+
+# Virtualenv
+_venv
+
+# Sphinx
+_build
+
